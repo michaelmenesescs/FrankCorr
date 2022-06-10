@@ -12,5 +12,11 @@ a {
 }
 
 * {
+  text-decoration: none;
   box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Futura';
+  src: url('../assets/FuturaPTLightOblique.otf') format('opentype');
 }
